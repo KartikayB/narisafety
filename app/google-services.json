@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "586936540089",
+    "firebase_url": "https://womensafety-c9a10.firebaseio.com",
+    "project_id": "womensafety-c9a10",
+    "storage_bucket": "womensafety-c9a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586936540089:android:cdf0c7e5c08e7dd3583468",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586936540089-tvam72qo0bge8ihrcmh6l26c345t66ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "de32bb5c8a0ed9f5f9766bd6d53fba1dd6022b0e"
+          }
+        },
+        {
+          "client_id": "586936540089-o2e5vflibttsesug875sfe210es40t60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoyqmkzwq5aesvFcSLuAEi9lCp4vGxo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586936540089-o2e5vflibttsesug875sfe210es40t60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586936540089:android:92f5f6d7d87695f4583468",
+        "android_client_info": {
+          "package_name": "com.teapink.damselindistress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586936540089-mhbd5oqjaf876l85m29q2kams82upfqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teapink.damselindistress",
+            "certificate_hash": "de32bb5c8a0ed9f5f9766bd6d53fba1dd6022b0e"
+          }
+        },
+        {
+          "client_id": "586936540089-o2e5vflibttsesug875sfe210es40t60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoyqmkzwq5aesvFcSLuAEi9lCp4vGxo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586936540089-o2e5vflibttsesug875sfe210es40t60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
